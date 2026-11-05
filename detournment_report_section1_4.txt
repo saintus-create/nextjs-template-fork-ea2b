@@ -1,0 +1,14 @@
+DETOURNEMENT REPORT — §1 to §4
+==================================================
+
+Source paragraphs: 3
+Output paragraphs: 3
+
+T1 violations: 0
+
+T2 violations: 0
+
+T3 deviations: 0
+
+J1: All output propositions traceable to source paragraphs (by construction)
+J2 flags: none

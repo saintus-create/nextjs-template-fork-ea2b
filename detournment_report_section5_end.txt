@@ -1,0 +1,49 @@
+DETOURNEMENT REPORT — §5 to end
+================================
+
+METHOD
+------
+Structural relational détournement (Situationist International, Debord & Wolman 1956).
+Each sentence's subject is the relation between me (clinician slot) and him (patient slot),
+not a clinical procedure. Sentence form — length, clause structure, abstraction level,
+flatness — is preserved. What changes is what the sentence describes.
+
+SOURCE OF TRUTH: /home/user/detourn/SOURCE_OF_TRUTH.md
+
+SUBSTITUTION TABLE APPLIED
+--------------------------
+therapist, analyst, clinician, treater → I / me / my
+patient, subject → he / him / his
+borderline → perpetrator
+treatment → victim autonomy
+contract → agreement
+session → DELETE (with deletion repair)
+frame → frame (keep)
+
+resistance → rejection of victim autonomy
+acting out → converting the wish into the deed
+dropout → flight from the agreement
+neutrality → safe observational position
+transference → his fixed distortion of my representation
+countertransference → my pull to rescue, punish, or withdraw
+holding environment → containment of his rejection
+
+SOURCE PARAGRAPHS: 21 (§5–end)
+OUTPUT PARAGRAPHS: 21
+
+REPLACEMENT TEST
+----------------
+Every sentence was checked: it must not require a professional-patient dynamic to
+parse; it must parse with me + him. No sentence retains a clinical role structure.
+All pronoun agreement errors (e.g., "Many I," "Me are," "I working with him"),
+all "her/hers/she" references to the patient, all DELETE holes, all metaphors
+(razor blade, bonzai garden, boxing ring), and all empty slots have been repaired.
+
+NOTES
+-----
+- "session" → DELETE per mapping table; deletion holes repaired minimally
+  (dropping prepositional phrases where possible, otherwise [[REPAIR: sessions]]).
+- No word-for-word substitution that preserves clinical role structure was used.
+- No commentary, no [S]/[F] tags, no summarizing, no added framing.
+- Register: content words drawn from source vocabulary ∪ mapping targets ∪ repair tokens only.
+- Flat declarative sentences only; no figures of speech, metaphors, or idioms.

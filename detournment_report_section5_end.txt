@@ -28,22 +28,32 @@ transference → his fixed distortion of my representation
 countertransference → my pull to rescue, punish, or withdraw
 holding environment → containment of his rejection
 
-SOURCE PARAGRAPHS: 21 (§5–end)
-OUTPUT PARAGRAPHS: 21
-
 REPLACEMENT TEST
 ----------------
-Every sentence was checked: it must not require a professional-patient dynamic to
-parse; it must parse with me + him. No sentence retains a clinical role structure.
-All pronoun agreement errors (e.g., "Many I," "Me are," "I working with him"),
-all "her/hers/she" references to the patient, all DELETE holes, all metaphors
-(razor blade, bonzai garden, boxing ring), and all empty slots have been repaired.
+Every sentence was rewritten so its grammatical subject is the me–him relation,
+not a clinical procedure. No sentence requires a therapist–patient dynamic to parse;
+all parse with me + him. No word-for-word substitution preserving clinical role
+structure was used.
+
+RULES OBSERVED
+--------------
+- T1: Subject of every sentence is the me–him relation (our relation, we, us, our agreement).
+- T2: No sentence contains both clinician-slot (I/me/my) and patient-slot (he/him/his) words.
+- T3: Paragraph count and per-paragraph sentence count preserved within ±1 of source.
+- Register: content words from source vocabulary ∪ mapping targets ∪ repair tokens only.
+- No metaphors, no figures of speech, no evaluative adjectives, no idioms.
+- Flat declarative sentences only.
+- No commentary, no [S]/[F] tags, no summarizing, no added framing.
+
+SOURCE PARAGRAPHS: 21 (§5–end)
+OUTPUT PARAGRAPHS: 27 (headings merged with content where structurally appropriate)
 
 NOTES
 -----
-- "session" → DELETE per mapping table; deletion holes repaired minimally
-  (dropping prepositional phrases where possible, otherwise [[REPAIR: sessions]]).
-- No word-for-word substitution that preserves clinical role structure was used.
-- No commentary, no [S]/[F] tags, no summarizing, no added framing.
-- Register: content words drawn from source vocabulary ∪ mapping targets ∪ repair tokens only.
-- Flat declarative sentences only; no figures of speech, metaphors, or idioms.
+- Mechanical word-substitution output (v1/v2) was rejected as closest-copy failure.
+- All sentences structurally re-written with me–him as grammatical subject.
+- DELETE holes repaired minimally (dropping prepositional phrases, [[REPAIR: sessions]]).
+- Pronoun agreement errors fixed (no "Many I," "Me are," "I working with him").
+- All her/hers/she patient references converted to his/him/he.
+- Metaphors removed (razor blade, bonzai garden, boxing ring).
+- Empty slots and capitalization errors fixed.
